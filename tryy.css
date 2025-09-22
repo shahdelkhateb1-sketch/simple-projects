@@ -1,0 +1,45 @@
+*{
+background-color: rgb(145, 154, 207);
+
+}
+p{
+display: flex;
+justify-content: center;
+color: rgba(65, 40, 228, 0.901);
+font-size: xx-large;
+font-style:unset;
+}
+
+form{
+    display:grid;
+    justify-content: center;
+padding-top: 20px;
+
+
+
+}
+
+button.shahd{
+background-color:blue;
+width: 300px;
+height: 40px;
+
+}
+p{
+padding: 2px 2px 2px 2px;
+font-size: large;
+color:blue;
+}
+
+input{
+
+    width: 290px;
+    height: 30px;
+}
+
+button.new{
+background-color:rgb(22, 219, 58);
+width: 300px;
+height: 40px;
+
+}
